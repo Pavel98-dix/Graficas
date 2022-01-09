@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Graficas</string>
+    <string-array name="sexo">
+        <item>hombre</item>
+        <item>mujer</item>
+    </string-array>
+</resources>
